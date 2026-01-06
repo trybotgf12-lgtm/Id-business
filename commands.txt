@@ -1,0 +1,12 @@
+# User Commands
+/start - Start the bot
+/shop - Open shop
+/profile - View profile & balance
+/referral - Referral system
+
+# Admin Commands
+/admin - Open admin panel
+/addcat [name] - Add category
+/addbalance [amount] [user_id] - Add balance
+/authorize [user_id] - Authorize user
+/setqr - Set UPI QR code (reply to photo)
